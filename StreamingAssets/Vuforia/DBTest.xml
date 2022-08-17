@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Asteroid_2022_PW" size="5.000000 5.106635" />
+    <ImageTarget name="Sentinel" size="5.000000 2.741176" />
+    <ImageTarget name="EnviSAT" size="5.000000 3.200000" />
+    <ImageTarget name="Maxell_MicroSD_ADAPTER" size="5.000000 6.513317" />
+    <ImageTarget name="Potato_Shaped_Asteroid" size="5.000000 3.864286" />
+  </Tracking>
+</QCARConfig>
